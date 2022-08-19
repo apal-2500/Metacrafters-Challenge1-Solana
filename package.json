@@ -1,0 +1,20 @@
+{
+  "name": "metacrafters-challenge1-solana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apal-2500/Metacrafters-Challenge1-Solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apal-2500/Metacrafters-Challenge1-Solana/issues"
+  },
+  "homepage": "https://github.com/apal-2500/Metacrafters-Challenge1-Solana#readme",
+  "description": ""
+}
